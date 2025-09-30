@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "legacy_uid": "4b603ff8-741b-e1bb-0a92-c7aa9f366f3d",
+  "instructors": {
+    "content": [
+      "2869f585-3c81-918b-0ee1-c51c6c782807"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "70d02cb8-21c5-e62a-fd7f-bbc2ffe49ab4",
+    "website": "18-125-measure-and-integration-fall-2003"
+  },
+  "course_title": "Measure and Integration",
+  "hide_download": true,
+  "course_description": "This graduate-level course covers Lebesgue's integration theory with applications to analysis, including an introduction to convolution and the Fourier transform.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.125",
+  "course_image_thumbnail": {
+    "content": "9c3f4893-2e21-2d98-2361-5d7397e191fa",
+    "website": "18-125-measure-and-integration-fall-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "98caa1ec-c506-4da9-b58b-1fd770b971fb",
+  "site_short_id": "18.125-fall-2003",
+  "site_url_path": "courses/18-125-measure-and-integration-fall-2003",
+  "title": "Course Metadata"
+}
